@@ -1,0 +1,26 @@
+/* Contact page */
+.contact-text {
+    font-size: 16px;
+    line-height: 1.7;
+    margin-bottom: 30px;
+    color: #3e4b57;
+    max-width: 600px;
+}
+
+.contact-info p {
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+
+.contact-info strong {
+    color: #3f5fa8;
+}
+
+.contact-info a {
+    color: #5b7dbf;
+    text-decoration: none;
+}
+
+.contact-info a:hover {
+    text-decoration: underline;
+}
